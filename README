@@ -1,0 +1,8 @@
+This program allows the user to visualize pathfinding algorithms. The current pathfinding alogrithms that can be displayed are as followed:
+- A*
+- Breadth First Search
+- Depth First Search
+- BiDirectional
+
+When the alogrithm is searching for a path, it will change the "Tile" color to a random rgb value. If the algorithm is able to find a path,
+It will highlight it in a solid green, and prompt the user with a back button to return to the main menu.
