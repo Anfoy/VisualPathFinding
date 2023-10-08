@@ -5,4 +5,5 @@ This program allows the user to visualize pathfinding algorithms. The current pa
 - BiDirectional
 
 When the alogrithm is searching for a path, it will change the "Tile" color to a random rgb value. If the algorithm is able to find a path,
-It will highlight it in a solid green, and prompt the user with a back button to return to the main menu.
+It will highlight it in a solid green, and prompt the user with a back button to return to the main menu. If it is unable to find a path,
+it will prompt the user with a back button.
